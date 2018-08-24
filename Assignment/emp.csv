@@ -1,0 +1,7 @@
+emp id, emp name, empsal, empdept
+1,'abc',100,'IT'
+2,'bcd',200,'IT'
+3,'cde',300,'IT'
+4,'def',400,'IT'
+5,'efg',500,'CS'
+6,'fgh',600,'CS'
